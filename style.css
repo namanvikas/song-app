@@ -41,3 +41,13 @@ body{
     line-height: 3;
     text-align: center;
 }
+
+.playmusic{
+    font-size: 22px;
+    width: 126px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 15px;
+}
